@@ -12,6 +12,8 @@ I'm **Manas**, an ECE student from Hyderabad who gets a kick out of turning wild
 
 I believe the best projects are ones that either solve a real problem or make people say *"wait, that actually works?"*
 
+> 🔥 **520 contributions in 2026** — and counting.
+
 ---
 
 ### 🔭 What I'm Building
@@ -95,7 +97,9 @@ I believe the best projects are ones that either solve a real problem or make pe
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mmanas--tech-181717?style=for-the-badge&logo=github)](https://github.com/Mmanas-tech)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas%20Maddela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-maddela-1698b8372/)
+[![Instagram](https://img.shields.io/badge/Instagram-manas__14xd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manas_14xd/)
+[![Gmail](https://img.shields.io/badge/Gmail-mmanas.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmanas.tech@gmail.com)
 
 </div>
 
