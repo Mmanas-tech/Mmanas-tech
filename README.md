@@ -26,6 +26,7 @@ I believe the best projects are ones that either solve a real problem or make pe
 | 🛡️ **[PhishGaurd-AI](https://github.com/Mmanas-tech/PHISHGAURD-AI)** | Browser extension that catches zero-day phishing attacks with >98% accuracy |
 | 📜 **[Nethra-Vedha](https://github.com/Mmanas-tech/nethra-vedha)** | Bridges people with ancient manuscripts using AI transcription |
 | 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for educational institutions |
+| 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | computer vision based cube solver with instructions |
 
 ---
 
