@@ -1,32 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Manas%20Maddela&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ECE%20Student%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MANAS%20MADDELA&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=ECE%20Student%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Full-Stack&descAlignY=52&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/Mmanas-tech">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+wild+ideas+into+working+software;AI+%2B+Computer+Vision+%2B+Full-Stack;Building+things+that+feel+like+sci-fi;21+repos+shipped+and+counting..." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mmanas-tech&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Mmanas-tech?label=FOLLOWERS&style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-21-a78bfa?style=for-the-badge&logo=github&labelColor=0d1117)
 
 </div>
 
 ---
 
-### Hey there 👋
+### 👋 Hey, I'm Manas
 
-I'm **Manas**, an ECE student from Hyderabad who gets a kick out of turning wild ideas into real, working software. I gravitate toward the intersection of **AI, computer vision, and full-stack development** — building things that feel a little bit like science fiction.
+I'm an **ECE student from Hyderabad** who gets a genuine kick out of turning wild ideas into real, working software. I live at the intersection of **AI, computer vision, and full-stack development** — building things that feel a little bit like science fiction until they're suddenly just... running on your laptop.
 
-I believe the best projects are ones that either solve a real problem or make people say *"wait, that actually works?"*
+> The best projects either solve a real problem or make someone say *"wait, that actually works?!"* — I'm chasing both, constantly.
 
-> 🔥 **520 contributions in 2026** — and counting.
+<div align="center">
+
+```
+$ whoami
+> ECE undergrad, self-taught builder, chronic project-starter
+$ current_status
+> shipping something new roughly every other week
+$ favorite_bug
+> the one that taught me something
+```
+
+</div>
 
 ---
 
-### 🔭 What I'm Building
+### 🚀 Flagship Builds
+
+<div align="center">
 
 | Project | What it does |
 |---|---|
-| 🎙️ **[VisioVoice](https://github.com/Mmanas-tech/VisioVoice)** | Silent speech → text using deep learning, CV, and audio synthesis |
-| 👶 **[InfantiQ](https://github.com/Mmanas-tech/InfantiQ)** | Translates infant cries into actionable insights via deep learning |
-| ✋ **[AirDesk](https://github.com/Mmanas-tech/AIRDESK)** | Touchless PC control through real-time hand gesture recognition |
-| 🛡️ **[PhishGaurd-AI](https://github.com/Mmanas-tech/PHISHGAURD-AI)** | Browser extension that catches zero-day phishing attacks with >98% accuracy |
-| 📜 **[Nethra-Vedha](https://github.com/Mmanas-tech/nethra-vedha)** | Bridges people with ancient manuscripts using AI transcription |
-| 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for educational institutions |
-| 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | computer vision based cube solver with instructions |
+| 🎙️ **[VisioVoice](https://github.com/Mmanas-tech/VisioVoice)** | Silent-speech AI — turns silent lip-movement video into real-time text using deep learning, CV & transformers |
+| 👶 **[InfantiQ](https://github.com/Mmanas-tech/InfantiQ)** | Deep-learning system that decodes infant cries into hunger, pain, discomfort & sleepiness signals |
+| 🧵 **[Artisan-Saas](https://github.com/Mmanas-tech/Artisan-Saas)** 🆕 | Voice-first, offline-first inventory app for rural artisans — blockchain ledger + micro-financing |
+| 🛡️ **[PHISHGAURD-AI](https://github.com/Mmanas-tech/PHISHGAURD-AI)** | Browser extension catching zero-day phishing in real time with GPT-4o + heuristics, >98% accuracy |
+| ✋ **[AIRDESK](https://github.com/Mmanas-tech/AIRDESK)** | Touchless PC control through real-time hand-gesture recognition over webcam |
+| 💸 **[Flow-AI](https://github.com/Mmanas-tech/Flow-AI)** | AI collections-intelligence platform for Tally businesses — receivables tracking & payment-risk analysis |
+| 🗳️ **[votevault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for educational institutions with transparent results |
+| 🧊 **[CubeQ](https://github.com/Mmanas-tech/CubeQ)** | Computer-vision Rubik's Cube solver — FastAPI engine + React UI, full algorithmic pipeline |
+| 📜 **[nethra-vedha](https://github.com/Mmanas-tech/nethra-vedha)** | AI transcription that bridges people with ancient manuscripts |
+| ⚖️ **[Nayya-AI](https://github.com/Mmanas-tech/Nayya-AI)** | Multilingual legal-doc AI — condenses 50+ page filings into one clean summary |
+
+</div>
+
+<div align="center">
+
+*...plus 11 more repos covering everything from a gravity simulator to a neon hand-tracking canvas.*
+**[→ See the full collection](https://github.com/Mmanas-tech?tab=repositories)**
+
+</div>
 
 ---
 
@@ -37,8 +72,8 @@ I believe the best projects are ones that either solve a real problem or make pe
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI / ML**
@@ -66,19 +101,28 @@ I believe the best projects are ones that either solve a real problem or make pe
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Live)
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mmanas-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmanas-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mmanas-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmanas-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmanas-tech&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mmanas-tech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true" width="95%"/>
 
 </div>
 
+> All stats above are pulled live — no stale numbers, they'll always reflect what's actually on my profile right now.
+
+---
+
+### 🏆 Trophy Case
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmanas-tech&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mmanas-tech&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -86,9 +130,10 @@ I believe the best projects are ones that either solve a real problem or make pe
 
 ### 🧠 Currently Exploring
 
-- 🔬 Transformer-based visual speech recognition (VisioVoice)
-- 🖥️ AI-native desktop tooling for productivity (Word & document workflows)
+- 🔬 Transformer-based visual speech recognition *(VisioVoice)*
+- 🖥️ AI-native desktop tooling for productivity — document workflows
 - 🤖 Agentic AI pipelines and multi-model orchestration
+- ⛓️ Offline-first apps with blockchain-backed ledgers *(Artisan-Saas)*
 - ☁️ Deploying ML inference at scale with FastAPI + Docker
 
 ---
@@ -108,7 +153,7 @@ I believe the best projects are ones that either solve a real problem or make pe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *"I enjoy turning ideas into real-time projects."*
 
