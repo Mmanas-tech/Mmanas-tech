@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2500&pause=900&color=00FFF5&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E+INSERT+COIN...;PLAYER%3A+MANAS+MADDELA;CLASS%3A+FULL-STACK+MAGE;PRESS+START+TO+CONTINUE" />
 
+<img src="https://progress-bar.dev/100/?title=LOADING+PROFILE&width=400&color=00fff5" />
+
 </div>
 
 <div align="center">
@@ -11,12 +13,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mmanas-tech&color=00fff5&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 ![Followers](https://img.shields.io/github/followers/Mmanas-tech?style=for-the-badge&color=e100ff&labelColor=000000&logo=github&logoColor=white)
 ![Achievement](https://img.shields.io/badge/🏆_ACHIEVEMENT-7_AI_PROJECTS_SHIPPED-ff2e97?style=for-the-badge&labelColor=000000)
-![Since](https://img.shields.io/badge/PLAYING%20SINCE-JULY%202025-00fff5?style=for-the-badge&labelColor=000000)
+![Class](https://img.shields.io/badge/CLASS-FULL--STACK_MAGE-00fff5?style=for-the-badge&labelColor=000000)
+![Since](https://img.shields.io/badge/PLAYING%20SINCE-JULY%202025-e100ff?style=for-the-badge&labelColor=000000)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🕹️ Character Select
@@ -39,10 +42,28 @@
 │   problem, or make people go 'wait...     │
 │   that actually works?!'"                 │
 └──────────────────────────────────────────┘
+
+  ↑ ↑ ↓ ↓ ← → ← → B A     (you know what to do)
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff2e97,50:6a00ff,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
+</div>
+
+### 🎮 Player Stats *(unofficial, self-reported, definitely accurate)*
+
+<div align="center">
+
+<img src="https://progress-bar.dev/80/?title=Coffee%20-%3E%20Code&width=400&color=00fff5" /><br/>
+<img src="https://progress-bar.dev/100/?title=Debugging%20via%20print%28%29&width=400&color=e100ff" /><br/>
+<img src="https://progress-bar.dev/15/?title=Sleep%20Schedule&width=400&color=ff2e97" /><br/>
+<img src="https://progress-bar.dev/65/?title=Stack%20Overflow%20Dependency&width=400&color=6a00ff" /><br/>
+<img src="https://progress-bar.dev/90/?title=%27Works%20on%20my%20machine%27%20Energy&width=400&color=00fff5" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🏆 High Score Table
@@ -64,7 +85,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6a00ff,50:ff2e97,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🎒 Loadout
@@ -74,7 +95,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 📊 Stat Screen
@@ -93,7 +114,7 @@
 *(Live cards — repos, stars, commits, streaks and the activity graph all recompute from the real GitHub API on every load.)*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:6a00ff,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🏆 Achievements Unlocked
@@ -103,32 +124,33 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🐍 Boss Battle: The Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/output/github-contribution-grid-snake.svg" />
-
 </div>
 
-> ⚠️ **One-time setup required to spawn the boss.** This animation only renders once you add the included `snake.yml` GitHub Action to `Mmanas-tech/Mmanas-tech/.github/workflows/` and push it — GitHub then builds the `output` branch automatically. Until then this image shows broken. Full steps below.
+> ⚠️ **One-time setup required to spawn the boss** — add `snake.yml` to `Mmanas-tech/Mmanas-tech/.github/workflows/` and push it. Full steps were covered earlier in this chat; ping me if you want them repeated.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a00ff,50:00fff5,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 📜 Quest Log
 
-- 🔬 Transformer-based visual speech recognition *(VisioVoice)*
-- 🖥️ AI-native desktop tooling for productivity *(Word & document workflows)*
-- 🤖 Agentic AI pipelines and multi-model orchestration
-- ☁️ Deploying ML inference at scale with FastAPI + Docker
+- [x] Ship 7 AI / CV / full-stack projects
+- [x] Build something that makes people say "wait, that actually works?"
+- [ ] Transformer-based visual speech recognition *(VisioVoice — in progress)*
+- [ ] AI-native desktop tooling for productivity
+- [ ] Agentic AI pipelines & multi-model orchestration
+- [ ] Deploy ML inference at scale with FastAPI + Docker
+- [ ] World domination *(stretch goal)*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=25&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🎮 Invite to Party
@@ -143,8 +165,6 @@
 **PRESS START TO CONNECT ▶**
 
 </div>
-
----
 
 <div align="center">
 
