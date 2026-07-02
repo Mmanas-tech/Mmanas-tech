@@ -26,21 +26,21 @@
 
 ```
 ┌──────────────────────────────────────────┐
-│              CHARACTER SHEET              │
+│              CHARACTER SHEET             │
 ├──────────────────────────────────────────┤
-│  NAME    : Manas Maddela                  │
-│  CLASS   : Full-Stack Mage / AI Architect │
-│  ORIGIN  : Hyderabad, India               │
-│  GUILD   : ECE Student                    │
-│  WEAPON  : Python + PyTorch + OpenCV      │
-│  PASSIVE : turns wild ideas into working  │
-│            software while sleep-deprived  │
-│  QUEST   : build things that feel a       │
-│            little bit like sci-fi         │
+│  NAME    : Manas Maddela                 │
+│  CLASS   : Full-Stack Mage / AI Architect│
+│  ORIGIN  : Hyderabad, India              │
+│  GUILD   : ECE Student                   │
+│  WEAPON  : Python + PyTorch + OpenCV     │
+│  PASSIVE : turns wild ideas into working │
+│            software while sleep-deprived │
+│  QUEST   : build things that feel a      │
+│            little bit like sci-fi        │
 ├──────────────────────────────────────────┤
-│  "The best drops either solve a real      │
-│   problem, or make people go 'wait...     │
-│   that actually works?!'"                 │
+│  "The best drops either solve a real     │
+│   problem, or make people go 'wait..     │
+│   that actually works?!'"                │
 └──────────────────────────────────────────┘
 
   ↑ ↑ ↓ ↓ ← → ← → B A     (you know what to do)
