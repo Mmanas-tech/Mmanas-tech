@@ -80,7 +80,6 @@
 | 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for schools | ![stars](https://img.shields.io/github/stars/Mmanas-tech/votevault?style=flat-square&color=00fff5&label=%20) |
 | 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | CV-based Rubik's cube solver with live instructions | ![stars](https://img.shields.io/github/stars/Mmanas-tech/CubeQ?style=flat-square&color=00fff5&label=%20) |
 
-*(SCORE pulls live from GitHub. If a badge ever shows "invalid," it's a momentary shields.io/GitHub API hiccup, not a broken link — refreshing usually fixes it.)*
 
 </div>
 
@@ -111,7 +110,7 @@
 
 </div>
 
-*(Live cards — repos, stars, commits, streaks and the activity graph all recompute from the real GitHub API on every load.)*
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:6a00ff,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
@@ -126,7 +125,6 @@
 ![Achievement](https://img.shields.io/badge/🏆-21_REPOS_MAINTAINED-ff2e97?style=for-the-badge&labelColor=000000)
 ![Achievement](https://img.shields.io/badge/🏆-1_YEAR_ON_GITHUB-6a00ff?style=for-the-badge&labelColor=000000)
 
-*(These are one-time counts, not a live widget — so unlike the trophy card, they never show broken. Update the numbers yourself if they drift.)*
 
 </div>
 
@@ -139,8 +137,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/output/github-contribution-grid-snake.svg" />
 </div>
-
-> ⚠️ **One-time setup required to spawn the boss** — add `snake.yml` to `Mmanas-tech/Mmanas-tech/.github/workflows/` and push it. Full steps were covered earlier in this chat; ping me if you want them repeated.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a00ff,50:00fff5,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
