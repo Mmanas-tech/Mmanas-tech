@@ -54,11 +54,11 @@
 
 <div align="center">
 
-<img src="https://progress-bar.dev/80/?title=Coffee%20-%3E%20Code&width=400&color=00fff5" /><br/>
-<img src="https://progress-bar.dev/100/?title=Debugging%20via%20print%28%29&width=400&color=e100ff" /><br/>
-<img src="https://progress-bar.dev/15/?title=Sleep%20Schedule&width=400&color=ff2e97" /><br/>
-<img src="https://progress-bar.dev/65/?title=Stack%20Overflow%20Dependency&width=400&color=6a00ff" /><br/>
-<img src="https://progress-bar.dev/90/?title=%27Works%20on%20my%20machine%27%20Energy&width=400&color=00fff5" />
+![Coffee to Code](https://img.shields.io/badge/Coffee%20to%20Code-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2080%25-00fff5?style=for-the-badge&labelColor=000000)<br/>
+![print() Debugging](https://img.shields.io/badge/print%28%29%20Debugging-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25-e100ff?style=for-the-badge&labelColor=000000)<br/>
+![Sleep Schedule](https://img.shields.io/badge/Sleep%20Schedule-%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%2020%25-ff2e97?style=for-the-badge&labelColor=000000)<br/>
+![SO Dependency](https://img.shields.io/badge/SO%20Dependency-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2070%25-6a00ff?style=for-the-badge&labelColor=000000)<br/>
+![Works on My Machine](https://img.shields.io/badge/Works%20on%20My%20Machine-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-00fff5?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -70,17 +70,15 @@
 
 <div align="center">
 
-| GAME | OBJECTIVE | SCORE |
-|---|---|---|
-| 🎙️ **[VisioVoice](https://github.com/Mmanas-tech/VisioVoice)** | Silent speech → text via deep learning, CV & audio synthesis | ![stars](https://img.shields.io/github/stars/Mmanas-tech/VisioVoice?style=flat-square&color=00fff5&label=%20) |
-| 👶 **[InfantiQ](https://github.com/Mmanas-tech/InfantiQ)** | Translates infant cries into actionable insights | ![stars](https://img.shields.io/github/stars/Mmanas-tech/InfantiQ?style=flat-square&color=00fff5&label=%20) |
-| ✋ **[AirDesk](https://github.com/Mmanas-tech/AIRDESK)** | Touchless PC control via real-time hand gesture recognition | ![stars](https://img.shields.io/github/stars/Mmanas-tech/AIRDESK?style=flat-square&color=00fff5&label=%20) |
-| 🛡️ **[PhishGaurd-AI](https://github.com/Mmanas-tech/PHISHGAURD-AI)** | Catches zero-day phishing attacks at >98% accuracy | ![stars](https://img.shields.io/github/stars/Mmanas-tech/PHISHGAURD-AI?style=flat-square&color=00fff5&label=%20) |
-| 📜 **[Nethra-Vedha](https://github.com/Mmanas-tech/nethra-vedha)** | Bridges people with ancient manuscripts via AI transcription | ![stars](https://img.shields.io/github/stars/Mmanas-tech/nethra-vedha?style=flat-square&color=00fff5&label=%20) |
-| 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for schools | ![stars](https://img.shields.io/github/stars/Mmanas-tech/votevault?style=flat-square&color=00fff5&label=%20) |
-| 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | CV-based Rubik's cube solver with live instructions | ![stars](https://img.shields.io/github/stars/Mmanas-tech/CubeQ?style=flat-square&color=00fff5&label=%20) |
+<a href="https://github.com/Mmanas-tech/VisioVoice"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=VisioVoice&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/InfantiQ"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=InfantiQ&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/AIRDESK"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=AIRDESK&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/PHISHGAURD-AI"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=PHISHGAURD-AI&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/nethra-vedha"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=nethra-vedha&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/votevault"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=votevault&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+<a href="https://github.com/Mmanas-tech/CubeQ"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=CubeQ&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
 
-*(SCORE pulls live from GitHub — always current, never a stale number.)*
+*(Stars/forks on each card pull live from GitHub through the same stats service already used above — more reliable than the old per-repo badges, which shared a rate-limited pool and occasionally showed "invalid.")*
 
 </div>
 
