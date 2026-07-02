@@ -70,15 +70,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Mmanas-tech/VisioVoice"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=VisioVoice&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/InfantiQ"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=InfantiQ&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/AIRDESK"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=AIRDESK&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/PHISHGAURD-AI"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=PHISHGAURD-AI&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/nethra-vedha"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=nethra-vedha&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/votevault"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=votevault&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
-<a href="https://github.com/Mmanas-tech/CubeQ"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Mmanas-tech&repo=CubeQ&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6" /></a>
+| GAME | OBJECTIVE | SCORE |
+|---|---|---|
+| 🎙️ **[VisioVoice](https://github.com/Mmanas-tech/VisioVoice)** | Silent speech → text via deep learning, CV & audio synthesis | ![stars](https://img.shields.io/github/stars/Mmanas-tech/VisioVoice?style=flat-square&color=00fff5&label=%20) |
+| 👶 **[InfantiQ](https://github.com/Mmanas-tech/InfantiQ)** | Translates infant cries into actionable insights | ![stars](https://img.shields.io/github/stars/Mmanas-tech/InfantiQ?style=flat-square&color=00fff5&label=%20) |
+| ✋ **[AirDesk](https://github.com/Mmanas-tech/AIRDESK)** | Touchless PC control via real-time hand gesture recognition | ![stars](https://img.shields.io/github/stars/Mmanas-tech/AIRDESK?style=flat-square&color=00fff5&label=%20) |
+| 🛡️ **[PhishGaurd-AI](https://github.com/Mmanas-tech/PHISHGAURD-AI)** | Catches zero-day phishing attacks at >98% accuracy | ![stars](https://img.shields.io/github/stars/Mmanas-tech/PHISHGAURD-AI?style=flat-square&color=00fff5&label=%20) |
+| 📜 **[Nethra-Vedha](https://github.com/Mmanas-tech/nethra-vedha)** | Bridges people with ancient manuscripts via AI transcription | ![stars](https://img.shields.io/github/stars/Mmanas-tech/nethra-vedha?style=flat-square&color=00fff5&label=%20) |
+| 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for schools | ![stars](https://img.shields.io/github/stars/Mmanas-tech/votevault?style=flat-square&color=00fff5&label=%20) |
+| 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | CV-based Rubik's cube solver with live instructions | ![stars](https://img.shields.io/github/stars/Mmanas-tech/CubeQ?style=flat-square&color=00fff5&label=%20) |
 
-*(Stars/forks on each card pull live from GitHub through the same stats service already used above — more reliable than the old per-repo badges, which shared a rate-limited pool and occasionally showed "invalid.")*
+*(SCORE pulls live from GitHub. If a badge ever shows "invalid," it's a momentary shields.io/GitHub API hiccup, not a broken link — refreshing usually fixes it.)*
 
 </div>
 
@@ -103,7 +105,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mmanas-tech&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=e100ff&text_color=e6e6e6&count_private=false" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmanas-tech&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff5&text_color=e6e6e6&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmanas-tech&hide_border=true&background=0D0221&ring=00FFF5&fire=E100FF&currStreakLabel=00FFF5&sideLabels=e6e6e6&dates=e6e6e6&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=Mmanas-tech&hide_border=true&background=0D0221&ring=00FFF5&fire=E100FF&currStreakLabel=00FFF5&sideLabels=e6e6e6&dates=e6e6e6&currStreakNum=ffffff&sideNums=ffffff" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mmanas-tech&bg_color=0D0221&color=00fff5&line=e100ff&point=ffffff&area=true&area_color=6a00ff&hide_border=true" />
 
@@ -118,7 +120,14 @@
 ### 🏆 Achievements Unlocked
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mmanas-tech&no-frame=true&row=1&column=7&theme=radical" />
+
+![Achievement](https://img.shields.io/badge/🏆-7_PROJECTS_SHIPPED-00fff5?style=for-the-badge&labelColor=000000)
+![Achievement](https://img.shields.io/badge/🏆-81%2B_STARS_EARNED-e100ff?style=for-the-badge&labelColor=000000)
+![Achievement](https://img.shields.io/badge/🏆-21_REPOS_MAINTAINED-ff2e97?style=for-the-badge&labelColor=000000)
+![Achievement](https://img.shields.io/badge/🏆-1_YEAR_ON_GITHUB-6a00ff?style=for-the-badge&labelColor=000000)
+
+*(These are one-time counts, not a live widget — so unlike the trophy card, they never show broken. Update the numbers yourself if they drift.)*
+
 </div>
 
 <div align="center">
