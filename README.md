@@ -82,12 +82,11 @@ $ status
 
 ---
 
-### 🏆 Trophy Case
+### 🏆 commits
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mmanas-tech&no-frame=true&row=1&column=7&theme=radical" />
-
+![snake](https://raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
