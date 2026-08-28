@@ -1,10 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6a00ff,100:00fff5&height=220&section=header&text=MANAS%20MADDELA&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=AI%20Architect%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=55&descColor=00fff5&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6a00ff,100:00fff5&height=250&section=header&text=MANAS%20MADDELA&fontSize=55&fontColor=ffffff&fontAlignY=30&desc=AI%20Architect%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=52&descColor=00fff5&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2500&pause=900&color=00FFF5&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E+INSERT+COIN...;PLAYER%3A+MANAS+MADDELA;CLASS%3A+FULL-STACK+MAGE;PRESS+START+TO+CONTINUE" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=2200&pause=800&color=00FFF5&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%3E+BOOTING+SYSTEM...;LOADING+PLAYER+DATA...;PLAYER%3A+MANAS+MADDELA;CLASS%3A+FULL-STACK+MAGE;PRESS+START+TO+CONTINUE" />
 
-<img src="https://progress-bar.dev/100/?title=LOADING+PROFILE&width=400&color=00fff5" />
+<img src="https://progress-bar.dev/100/?title=SYSTEM+READY&width=400&color=00fff5" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
+</div>
+
+<!-- ============ PLAYER PORTRAIT ============ -->
+<div align="center">
+
+### 🕹️ Player Has Entered the Game
+
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/main/assets/profile.png&w=340&h=340&fit=cover&mask=circle&trim=0&maxage=7d" width="230" alt="Manas Maddela" /><br/>
+
+<sub>▲ update the `url=` param above once you push `assets/profile.png` to your `Mmanas-tech/Mmanas-tech` repo — see note at the bottom ▼</sub>
+
+<br/><br/>
+
+![Level](https://img.shields.io/badge/LEVEL-99-00fff5?style=for-the-badge&labelColor=000000)
+![Class](https://img.shields.io/badge/CLASS-FULL--STACK_MAGE-e100ff?style=for-the-badge&labelColor=000000)
+![HP](https://img.shields.io/badge/HP-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88_100%25-ff2e97?style=for-the-badge&labelColor=000000)
+![Mana](https://img.shields.io/badge/CAFFEINE-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91_80%25-6a00ff?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -13,41 +35,40 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Mmanas-tech&color=00fff5&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 ![Followers](https://img.shields.io/github/followers/Mmanas-tech?style=for-the-badge&color=e100ff&labelColor=000000&logo=github&logoColor=white)
 ![Achievement](https://img.shields.io/badge/🏆_ACHIEVEMENT-7_AI_PROJECTS_SHIPPED-ff2e97?style=for-the-badge&labelColor=000000)
-![Class](https://img.shields.io/badge/CLASS-FULL--STACK_MAGE-00fff5?style=for-the-badge&labelColor=000000)
-![Since](https://img.shields.io/badge/PLAYING%20SINCE-JULY%202025-e100ff?style=for-the-badge&labelColor=000000)
+![Since](https://img.shields.io/badge/PLAYING%20SINCE-JULY%202025-6a00ff?style=for-the-badge&labelColor=000000)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff2e97,50:6a00ff,100:00fff5&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🕹️ Character Select
 
 ```
-┌──────────────────────────────────────────┐
-│              CHARACTER SHEET             │
-├──────────────────────────────────────────┤
-│  NAME    : Manas Maddela                 │
-│  CLASS   : Full-Stack Mage / AI Architect│
-│  ORIGIN  : Hyderabad, India              │
-│  GUILD   : ECE Student                   │
-│  WEAPON  : Python + PyTorch + OpenCV     │
-│  PASSIVE : turns wild ideas into working │
-│            software while sleep-deprived │
-│  QUEST   : build things that feel a      │
-│            little bit like sci-fi        │
-├──────────────────────────────────────────┤
-│  "The best drops either solve a real     │
-│   problem, or make people go 'wait..     │
-│   that actually works?!'"                │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════╗
+║              CHARACTER SHEET              ║
+╠══════════════════════════════════════════╣
+║  NAME    : Manas Maddela                  ║
+║  CLASS   : Full-Stack Mage / AI Architect ║
+║  ORIGIN  : Hyderabad, India               ║
+║  GUILD   : ECE Student                    ║
+║  WEAPON  : Python + PyTorch + OpenCV      ║
+║  PASSIVE : turns wild ideas into working  ║
+║            software while sleep-deprived  ║
+║  QUEST   : build things that feel a       ║
+║            little bit like sci-fi         ║
+╠══════════════════════════════════════════╣
+║  "The best drops either solve a real      ║
+║   problem, or make people go 'wait..      ║
+║   that actually works?!'"                 ║
+╚══════════════════════════════════════════╝
 
   ↑ ↑ ↓ ↓ ← → ← → B A     (you know what to do)
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff2e97,50:6a00ff,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🎮 Player Stats *(unofficial, self-reported, definitely accurate)*
@@ -63,7 +84,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🏆 High Score Table
@@ -80,11 +101,10 @@
 | 🗳️ **[VoteVault](https://github.com/Mmanas-tech/votevault)** | Secure online voting system for schools | ![stars](https://img.shields.io/github/stars/Mmanas-tech/votevault?style=flat-square&color=00fff5&label=%20) |
 | 🧊 **[Cube_Q](https://github.com/Mmanas-tech/CubeQ)** | CV-based Rubik's cube solver with live instructions | ![stars](https://img.shields.io/github/stars/Mmanas-tech/CubeQ?style=flat-square&color=00fff5&label=%20) |
 
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6a00ff,50:ff2e97,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6a00ff,50:ff2e97,100:00fff5&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🎒 Loadout
@@ -94,7 +114,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 📊 Stat Screen
@@ -110,10 +130,8 @@
 
 </div>
 
-
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:6a00ff,100:00fff5&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:6a00ff,100:00fff5&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🏆 Achievements Unlocked
@@ -125,11 +143,10 @@
 ![Achievement](https://img.shields.io/badge/🏆-21_REPOS_MAINTAINED-ff2e97?style=for-the-badge&labelColor=000000)
 ![Achievement](https://img.shields.io/badge/🏆-1_YEAR_ON_GITHUB-6a00ff?style=for-the-badge&labelColor=000000)
 
-
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🐍 Boss Battle: The Contribution Snake
@@ -139,7 +156,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a00ff,50:00fff5,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a00ff,50:00fff5,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 📜 Quest Log
@@ -153,7 +170,7 @@
 - [ ] World domination *(stretch goal)*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=22&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,50:6a00ff,100:ff2e97&height=18&section=header&animation=twinkling" width="100%" />
 </div>
 
 ### 🎮 Invite to Party
