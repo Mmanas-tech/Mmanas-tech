@@ -17,9 +17,7 @@
 
 ### 🕹️ Player Has Entered the Game
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/main/assets/profile.png&w=340&h=340&fit=cover&mask=circle&trim=0&maxage=7d" width="230" alt="Manas Maddela" /><br/>
-
-<sub>▲ update the `url=` param above once you push `assets/profile.png` to your `Mmanas-tech/Mmanas-tech` repo — see note at the bottom ▼</sub>
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Mmanas-tech/Mmanas-tech/main/main/assets/profile.png&w=340&h=340&fit=cover&mask=circle&trim=0&maxage=7d" width="230" alt="Manas Maddela" />
 
 <br/><br/>
 
